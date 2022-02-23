@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    background-color: maroon;
+    color: white;
+    font-size: 56px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: darkblue;
+    font-size: 26px;
+
+}
+
+ul,
+ol {
+    background-color: black;
+    color: rgb(204, 26, 26);
+    font-size: large;
+}
+
+ul {
+    font-family: Verdana, "Times New Roman", sans-serif;
+}
+
+ol {
+    font-family: monospace, Verdana, sans-serif;
+}
+
+a {
+    background-color: black;
+    color: purple;
+}
+
+.top-image {
+    height: auto;
+    width: 400px;
+    
+}
